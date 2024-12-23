@@ -12,7 +12,6 @@ our release schedule.
 ### Debian, Ubuntu Linux, Raspberry Pi OS (apt)
 
 Install:
-
 ```bash
 (type -p wget >/dev/null || (sudo apt update && sudo apt-get install wget -y)) \
 	&& sudo mkdir -p -m 755 /etc/apt/keyrings \
